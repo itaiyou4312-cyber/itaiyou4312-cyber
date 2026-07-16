@@ -14,3 +14,4 @@ Python and Power Platform (Power Automate / SharePoint).
 Currently working on a small e-commerce research tool as a side project.
 
 Feel free to reach out!
+　
