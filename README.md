@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**itaiyou4312-cyber/itaiyou4312-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm here to build things 👋
 
-Here are some ideas to get you started:
+I enjoy building small tools and side projects in my free time, mostly with
+Python and Power Platform (Power Automate / SharePoint).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Building automation & data tools with Python
+- 🌐 Dabbling in web design (SEO/MEO basics)
+- 📈 Interested in investing and personal finance
+- ✈️ Travel enthusiast (mileage optimization is a hobby of its own)
+- 🍶 Japanese sake appreciation
+
+Currently working on a small e-commerce research tool as a side project.
+
+Feel free to reach out!
